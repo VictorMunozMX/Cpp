@@ -1,0 +1,4 @@
+﻿  Practice.cpp
+C:\Private\Development\C++\Practice\Practice\Practice.cpp(79,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Private\Development\C++\Practice\Practice\Practice.cpp(79,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Practice.vcxproj -> C:\Private\Development\C++\Practice\x64\Debug\Practice.exe

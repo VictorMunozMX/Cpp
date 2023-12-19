@@ -1,0 +1,4 @@
+﻿  Final.cpp
+C:\Private\Development\C++\Final\Final\Final.cpp(63): warning C4715: 'TicTacToe::setMark': not all control paths return a value
+C:\Private\Development\C++\Final\Final\Final.cpp(137): warning C4715: 'TicTacToe::checkWin': not all control paths return a value
+  Final.vcxproj -> C:\Private\Development\C++\Final\x64\Debug\Final.exe
