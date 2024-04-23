@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PRIVATE\\Development\\C\u002B\u002B\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D5775D-E121-4678-B9D0-7C9FC36489DC}|Practice\\Practice.vcxproj|C:\\PRIVATE\\Development\\C\u002B\u002B\\Practice\\Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D5775D-E121-4678-B9D0-7C9FC36489DC}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Practice.cpp",
+              "DocumentMoniker": "C:\\PRIVATE\\Development\\C\u002B\u002B\\Practice\\Practice\\Practice.cpp",
+              "RelativeDocumentMoniker": "Practice\\Practice.cpp",
+              "ToolTip": "C:\\PRIVATE\\Development\\C\u002B\u002B\\Practice\\Practice\\Practice.cpp",
+              "RelativeToolTip": "Practice\\Practice.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-14T03:02:43.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
